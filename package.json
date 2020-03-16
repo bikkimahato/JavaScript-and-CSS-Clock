@@ -1,0 +1,23 @@
+{
+  "name": "js-and-css-clock",
+  "version": "1.0.0",
+  "description": "A JavaScript CSS project. A clock made with CSS and JS that will show you the current time.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikkimahato/JavaScript-and-CSS-Clock.git"
+  },
+  "author": "Bikki Mahato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikkimahato/JavaScript-and-CSS-Clock/issues"
+  },
+  "homepage": "https://github.com/bikkimahato/JavaScript-and-CSS-Clock#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
